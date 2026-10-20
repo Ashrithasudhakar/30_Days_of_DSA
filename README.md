@@ -4,7 +4,7 @@ A personal learning journey to improve my problem-solving skills, strengthen Dat
 # About This Challenge
 I have studied programming concepts, but I want to become better at applying them to new problems independently. Through this 30-day challenge, I will practice C++, learn DSA step by step, solve coding problems, and document my progress.
 
-Language: C++
+Language: C++ 
 Duration: 30 days
 Focus: Problem-solving, DSA, coding interviews 
 
